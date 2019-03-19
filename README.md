@@ -1,6 +1,6 @@
 # Pong
 
-To start the game you have to press any button.
+A 2 player's game. To start the game you have to press any button.
 
 ### First player's controls:
 	W - go up
